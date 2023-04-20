@@ -19,7 +19,9 @@ export const defaultEnv = {
     APIModel: "gpt-3.5-turbo" as Model
   },
   CLIENT_DEFAULT_MESSAGE: `Powered by OpenAI Vercel
+- **知晓网站密码后，完全免费使用！**
 - 如果本项目对你有所帮助，可以给我买杯果茶，但不接受任何付费功能请求。
+- 长久更新，持续发电，有需要使用的话可以联系我[B站私信](https://space.bilibili.com/511814093/video)。
 - 最近做出了许多更新，希望大家玩得愉快！
 - 点击每条消息前的头像，可以锁定对话，作为角色设定。[查看更多使用技巧](https://github.com/ourongxing/chatgpt-vercel#使用技巧)。
 - 现在支持多个对话，打开对话设置，点击新建对话。在输入框里输入 [[/]][[/]] 或者 [[空格]][[空格]] 可以切换对话，搜索历史消息。
